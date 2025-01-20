@@ -12,7 +12,7 @@ Déjà Vu is a puzzle and walking simulator set in a distorted world of seemingl
 - **Minimum Requirements:**
   - OS: Windows 10 64-bit
   - Processor: Quad-core Intel or AMD 2.5 GHz
-  - Memory: 16GB RAM
+  - Memory: 10GB RAM
   - Graphics: DirectX 11 or 12 compatible card
   - Network: No internet connection required
   - Storage: 1GB
